@@ -1,2 +1,3 @@
-# fast-web-app-kzrv
-A web application for modern development workflows
+# Fast Web App Kzrv
+
+A web application for modern development workflows.
